@@ -18,8 +18,7 @@ export default function Home() {
     <div className="min-h-screen p-8">
       <main className="max-w-4xl mx-auto">
         <div className="text-center mb-8">
-          <h1 className="text-4xl font-bold mb-4">OAuth Demo</h1>
-          <p className="text-gray-600">A simple OAuth implementation using GitHub</p>
+          <h1 className="text-4xl font-bold mb-4">OAuth MP6</h1>
         </div>
 
         {session ? (
